@@ -6,7 +6,10 @@ namespace PaternShow
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Welcome to Pattern Solve");
+            PaternShow.NumberPattern();
+
         }
     }
 }
